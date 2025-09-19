@@ -1,7 +1,11 @@
 const fs = require("fs");
 const https = require("https");
 
+<<<<<<< HEAD
 const username = "esatyucel"; 
+=======
+const username = "esatyucel";
+>>>>>>> 65147a5 (Fix codewars.js to CommonJS)
 const url = `https://www.codewars.com/users/${username}.json`;
 
 https.get(url, res => {
