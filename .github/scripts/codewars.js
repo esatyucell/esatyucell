@@ -8,9 +8,22 @@ https.get(url, res => {
     let data = "";
     res.on("data", chunk => (data += chunk));
     res.on("end", () => {
-        const user = JSON.parse(data);
+        try {
+            const user = JSON.parse(data);
 
-        const stats = `
+            if (
+                !user.username ||
+                !user.ranks ||
+                !user.ranks.overall ||
+                !user.honor ||
+                !user.leaderboardPosition ||
+                !user.codeChallenges ||
+                typeof user.codeChallenges.totalCompleted === "undefined"
+            ) {
+                throw new Error("Codewars API yanıtı beklenen formatta değil veya kullanıcı bulunamadı.");
+            }
+
+            const stats = `
 <!-- CODEWARS-START -->
 ### 🥷 Codewars Stats
 - **Username:** ${user.username}
@@ -23,17 +36,21 @@ _Last updated: ${new Date().toLocaleString()}_
 <!-- CODEWARS-END -->
 `;
 
-        let readme = fs.readFileSync("README.md", "utf8");
+            let readme = fs.readFileSync("README.md", "utf8");
 
-        if (readme.includes("<!-- CODEWARS-START -->")) {
-            readme = readme.replace(
-                /<!-- CODEWARS-START -->(.|\n)*<!-- CODEWARS-END -->/,
-                stats
-            );
-        } else {
-            readme += "\n" + stats;
+            if (readme.includes("<!-- CODEWARS-START -->")) {
+                readme = readme.replace(
+                    /<!-- CODEWARS-START -->(.|\n)*<!-- CODEWARS-END -->/,
+                    stats
+                );
+            } else {
+                readme += "\n" + stats;
+            }
+
+            fs.writeFileSync("README.md", readme);
+        } catch (err) {
+            console.error("Hata:", err.message);
+            process.exit(1);
         }
-
-        fs.writeFileSync("README.md", readme);
     });
 });
