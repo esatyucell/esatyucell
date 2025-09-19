@@ -42,8 +42,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esatyucell&show_icons=true&locale=tr" alt="esatyucell" /></p>
 
-![Codewars](https://www.codewars.com/users/esatyucel/badges/large)
-
+<!-- CODEWARS-START -->
+<!-- CODEWARS-END -->
 
 ![](https://nirzak-streak-stats.vercel.app/?user=esatyucell&theme=dark&hide_border=false)<br/>
 
