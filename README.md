@@ -42,7 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esatyucell&show_icons=true&locale=tr" alt="esatyucell" /></p>
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=esatyucel)](https://github.com/ignacio-cuadra/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=esatyucel&theme=dracula)]([https://github.com/ignacio-cuadra/github-readme-codewars](https://www.codewars.com/users/esatyucel))
 
 ![](https://nirzak-streak-stats.vercel.app/?user=esatyucell&theme=dark&hide_border=false)<br/>
 
