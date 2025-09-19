@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esatyucell&label=Profil%20Ziyaretleri&color=0e75b6&style=flat" alt="esatyucell" /> </p>
 
+- - 🎓 Eğitim geçmişim: Eskişehir Osman Gazi Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Daha sonra DGS ile Anadolu Üniversitesi Yönetim Bilişim Sistemleri bölümüne geçiş yaptım ve şu anda bu bölümde eğitimime devam ediyorum.
+ 
+
 - 🔭 Şu anda üzerinde çalıştığım proje: [Coding News Web Site](https://github.com/esatyucell/Coding-News-Web-Site)
 
 - 🌱 Şu anda öğrenmekte olduğum teknoloji: **PHP Laravel**
