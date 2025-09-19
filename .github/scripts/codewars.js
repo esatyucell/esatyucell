@@ -1,7 +1,7 @@
-import fs from "fs";
-import https from "https";
+const fs = require("fs");
+const https = require("https");
 
-const username = "esatyucel"; // Codewars kullanıcı adın
+const username = "esatyucel";
 const url = `https://www.codewars.com/users/${username}.json`;
 
 https.get(url, res => {
