@@ -1,20 +1,16 @@
 const fs = require("fs");
 const https = require("https");
 
-<<<<<<< HEAD
-const username = "esatyucel"; 
-=======
 const username = "esatyucel";
->>>>>>> 65147a5 (Fix codewars.js to CommonJS)
 const url = `https://www.codewars.com/users/${username}.json`;
 
 https.get(url, res => {
-  let data = "";
-  res.on("data", chunk => (data += chunk));
-  res.on("end", () => {
-    const user = JSON.parse(data);
+    let data = "";
+    res.on("data", chunk => (data += chunk));
+    res.on("end", () => {
+        const user = JSON.parse(data);
 
-    const stats = `
+        const stats = `
 <!-- CODEWARS-START -->
 ### 🥷 Codewars Stats
 - **Username:** ${user.username}
@@ -27,17 +23,17 @@ _Last updated: ${new Date().toLocaleString()}_
 <!-- CODEWARS-END -->
 `;
 
-    let readme = fs.readFileSync("README.md", "utf8");
+        let readme = fs.readFileSync("README.md", "utf8");
 
-    if (readme.includes("<!-- CODEWARS-START -->")) {
-      readme = readme.replace(
-        /<!-- CODEWARS-START -->(.|\n)*<!-- CODEWARS-END -->/,
-        stats
-      );
-    } else {
-      readme += "\n" + stats;
-    }
+        if (readme.includes("<!-- CODEWARS-START -->")) {
+            readme = readme.replace(
+                /<!-- CODEWARS-START -->(.|\n)*<!-- CODEWARS-END -->/,
+                stats
+            );
+        } else {
+            readme += "\n" + stats;
+        }
 
-    fs.writeFileSync("README.md", readme);
-  });
+        fs.writeFileSync("README.md", readme);
+    });
 });
