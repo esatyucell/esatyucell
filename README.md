@@ -8,7 +8,7 @@
 
 - 🔭 Şu anda üzerinde çalıştığım proje: [Coding News Web Site](https://github.com/esatyucell/Coding-News-Web-Site)
 
-- 🌱 Şu anda öğrenmekte olduğum teknoloji: **PHP Laravel**
+- 🌱 Şu anda öğrenmekte olduğum teknolojiler: **ASP:NET Core, ASP:NET Web API, EF Core**
 
 - 👨‍💻 Tüm projelerime buradan ulaşabilirsiniz: [https://esatyucel.com/](https://esatyucel.com/)
 
