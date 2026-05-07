@@ -5,11 +5,11 @@
 
 <br/>
 
-### 👨‍💻 Hakkımda & Mühendislik Vizyonum
-- 🎯 **Odak Noktam:** "Çalışıyorsa dokunma" mantığından uzak; **Clean Architecture**, **SOLID** prensipleri ve doğru tasarım desenlerini (Generic Repository vb.) kullanarak ölçeklenebilir, kurumsal arka uç (backend) sistemleri inşa etmek.
-- 🎓 **Eğitim:** Eskişehir Osmangazi Üniversitesi Bilgisayar Programcılığı ile algoritmik temelimi attım. Şu an Anadolu Üniversitesi **Yönetim Bilişim Sistemleri (YBS)** bölümünde; yazılımı sadece kod yığınları olarak değil, "İşletme Süreçleri ve Kurumsal Kaynak Planlaması (ERP)" vizyonuyla uçtan uca kurgulama yetkinliğimi geliştiriyorum.
+### 👨‍💻 Hakkımda
+- 🎯 **Odak Noktam:** Clean Architecture, SOLID prensipleri ve doğru tasarım desenlerini (Generic Repository, DI vb.) kullanarak sürdürülebilir arka uç (backend) sistemleri inşa etmek.
+- 🎓 **Eğitim:** Eskişehir Osmangazi Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Ardından DGS ile geçiş yaptığım Anadolu Üniversitesi Yönetim Bilişim Sistemleri (YBS) bölümünde lisans eğitimime devam ediyorum.
 - 🔭 **Şu an üzerine çalıştığım proje:** [Coding News Web Site](https://github.com/esatyucell/Coding-News-Web-Site)
-- 🌱 **Derinlemesine uzmanlaştığım teknolojiler:** C#, ASP.NET Core Web API, Entity Framework Core.
+- 🌱 **Derinlemesine odaklandığım teknolojiler:** C#, ASP.NET Core Web API, Entity Framework Core.
 - 💬 **Bana sorabileceğiniz konular:** Backend mimarileri, veri tabanı tasarımı ve API geliştirme süreçleri.
 
 ### 📫 Bağlantılar & İletişim
@@ -25,6 +25,7 @@
 ---
 
 ### 🛠️ Kullandığım Temel Teknolojiler ve Araçlar
+
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
@@ -35,23 +36,4 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-</p>
-
----
-
-### 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esatyucell&show_icons=true&locale=tr&theme=tokyonight" alt="esatyucell stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esatyucell&show_icons=true&locale=tr&layout=compact&theme=tokyonight" alt="esatyucell top langs" />
-</p>
-
-<p align="center">
-  <a href="https://www.codewars.com/users/esatyucel">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=esatyucel&theme=dracula" alt="Codewars" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=esatyucell&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
