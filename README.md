@@ -8,7 +8,7 @@
 ### 👨‍💻 Hakkımda
 - 🎯 **Odak Noktam:** Clean Architecture, SOLID prensipleri ve doğru tasarım desenlerini (Generic Repository, DI vb.) kullanarak sürdürülebilir arka uç (backend) sistemleri inşa etmek.
 - 🎓 **Eğitim:** Eskişehir Osmangazi Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Ardından DGS ile geçiş yaptığım Anadolu Üniversitesi Yönetim Bilişim Sistemleri (YBS) bölümünde lisans eğitimime devam ediyorum.
-- 🔭 **Şu an üzerine çalıştığım proje:** [Coding News Web Site](https://github.com/esatyucell/Online-Education)
+- 🔭 **Şu an üzerine çalıştığım proje:** [Online Education](https://github.com/esatyucell/Online-Education)
 - 🌱 **Derinlemesine odaklandığım teknolojiler:** C#, ASP.NET Core Web API, Entity Framework Core.
 - 💬 **Bana sorabileceğiniz konular:** Backend mimarileri, veri tabanı tasarımı ve API geliştirme süreçleri.
 
