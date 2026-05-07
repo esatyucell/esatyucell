@@ -42,12 +42,14 @@
 
 ### 📈 GitHub İstatistiklerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esatyucell&show_icons=true&locale=tr&theme=transparent&hide_border=true&title_color=00f2fe&text_color=8892b0&icon_color=00f2fe" alt="esatyucell GitHub Stats" />
-</div>
+<p align="center">
+  <a href="https://github.com/esatyucell">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esatyucell&theme=tokyonight" alt="Esat GitHub Stats" />
+  </a>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esatyucell&show_icons=true&locale=tr&layout=compact&theme=transparent&hide_border=true&title_color=00f2fe&text_color=8892b0" alt="esatyucell Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/esatyucell">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esatyucell&theme=tokyonight" alt="Esat Top Languages" />
+  </a>
+</p>
