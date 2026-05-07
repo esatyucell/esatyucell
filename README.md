@@ -8,7 +8,7 @@
 ### 👨‍💻 Hakkımda
 - 🎯 **Odak Noktam:** Clean Architecture, SOLID prensipleri ve doğru tasarım desenlerini (Generic Repository, DI vb.) kullanarak sürdürülebilir arka uç (backend) sistemleri inşa etmek.
 - 🎓 **Eğitim:** Eskişehir Osmangazi Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Ardından DGS ile geçiş yaptığım Anadolu Üniversitesi Yönetim Bilişim Sistemleri (YBS) bölümünde lisans eğitimime devam ediyorum.
-- 🔭 **Şu an üzerine çalıştığım proje:** [Coding News Web Site](https://github.com/esatyucell/Coding-News-Web-Site)
+- 🔭 **Şu an üzerine çalıştığım proje:** [Coding News Web Site](https://github.com/esatyucell/Online-Education)
 - 🌱 **Derinlemesine odaklandığım teknolojiler:** C#, ASP.NET Core Web API, Entity Framework Core.
 - 💬 **Bana sorabileceğiniz konular:** Backend mimarileri, veri tabanı tasarımı ve API geliştirme süreçleri.
 
@@ -37,3 +37,17 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
+
+---
+
+### 📈 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esatyucell&show_icons=true&locale=tr&theme=transparent&hide_border=true&title_color=00f2fe&text_color=8892b0&icon_color=00f2fe" alt="esatyucell GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esatyucell&show_icons=true&locale=tr&layout=compact&theme=transparent&hide_border=true&title_color=00f2fe&text_color=8892b0" alt="esatyucell Top Languages" />
+</div>
