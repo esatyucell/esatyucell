@@ -126,7 +126,7 @@ A comprehensive enterprise-grade backend platform for managing online educationa
 
 <div align="center">
 
-[![Microsoft]([https://img.shields.io/badge/Microsoft-Back--End_Developer_Professional_Certificate-0078D4?style=for-the-badge&logo=microsoft](https://coursera.org/share/979a0d40fe5fb40d60ce3a7a1e11be19))](https://coursera.org)
+[![Microsoft](https://img.shields.io/badge/Microsoft-Back--End_Developer_Professional_Certificate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://coursera.org/share/979a0d40fe5fb40d60ce3a7a1e11be19)
 
 </div>
 
@@ -156,14 +156,6 @@ A comprehensive enterprise-grade backend platform for managing online educationa
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esatyucell&theme=tokyonight&hide_border=true&bg_color=1F1F1F&color=7B68EE)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/esatyucell/esatyucell/output/github-contribution-grid-snake.svg)
 
 </div>
 
