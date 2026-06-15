@@ -3,9 +3,9 @@
 # Esat Yücel
 ### 🚀 Back-end Developer | .NET & ASP.NET & API & C# & Entity Framework 
 
-![Header Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=4B0082,7B68EE,8A2BE2&height=200&section=header&text=Esat%20Y%C3%BCcel&fontSize=60&fontColor=ffffff&desc=Enterprise%20Software%20Engineer%20%7C%20.NET%20%26%20API%20Architecture&descSize=20&descAlign=50)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Esat%20Y%C3%BCcel&fontSize=60&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&lines=Architecting+scalable+.NET+ecosystems;Passionate+about+clean+API+design;Turning+complex+logic+into+elegant+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=Architecting+scalable+.NET+ecosystems;Passionate+about+clean+API+design;Turning+complex+logic+into+elegant+code)](https://git.io/typing-svg)
 
 <br>
 
@@ -107,6 +107,7 @@ A comprehensive enterprise-grade backend platform for managing online educationa
 * Collaborated with senior engineers to optimize existing system infrastructures and improve overall application performance.
 * Gained hands-on experience in production-grade software lifecycles, adapting quickly to complex enterprise codebases.
 * **Skills:** `Software Development Lifecycle (SDLC)` • `System Optimization` • `Team Collaboration` • `Problem Solving`
+
 ---
 
 ## 🏆 Achievements
