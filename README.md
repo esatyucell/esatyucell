@@ -9,8 +9,11 @@
 
 <br>
 
-[![Education](https://img.shields.io/badge/Education-Computer%20Science-7B68EE?style=for-the-badge)](https://esatyucel.com)
+[![Education](https://img.shields.io/badge/Education-Computer%20Programming-7B68EE?style=for-the-badge)](https://esatyucel.com)
+[![Education](https://img.shields.io/badge/Education-Managment%20Information%20Systems-7B68EE?style=for-the-badge)](https://esatyucel.com)
+[![Location](https://img.shields.io/badge/Location-Istanbul%2C%20T%C3%BCrkiye-4B0082?style=for-the-badge)](https://esatyucel.com)
 [![Location](https://img.shields.io/badge/Location-Bursa%2C%20T%C3%BCrkiye-4B0082?style=for-the-badge)](https://esatyucel.com)
+
 
 <br>
 
