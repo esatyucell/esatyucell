@@ -18,9 +18,9 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-esatyucel.com-7B68EE?style=flat-square&logo=google-chrome)](https://esatyucel.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esat%20Yücel-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/esatyucel)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail)](mailto:esatyucel.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-EsatYucel-181717?style=flat-square&logo=github)](https://github.com/EsatYucel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esat%20Yücel-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/esat-yucel)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail)](mailto:esatyucelsoftware@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-EsatYucel-181717?style=flat-square&logo=github)](https://github.com/esatyucell)
 
 <br>
 
